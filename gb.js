@@ -25,7 +25,7 @@
   // =========================================================
 
   const SOURCE_URL =
-    "https://raw.githubusercontent.com/kenyuko123/Code-df/refs/heads/main/code.txt";
+    "https://raw.githubusercontent.com/kenthudoan/delta-force-automatic-reward-exchange/refs/heads/main/extension/codes/redeem-codes.txt";
 
   const RESULT_TIMEOUT = 10000;       
   const FIND_BUTTON_TIMEOUT = 3000;
